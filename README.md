@@ -74,15 +74,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Error =>
 
-import { Link } from react-scroll, but the react-scroll package is not installed in your project.Then you run this command 
-yarn add react-scroll
+import { Link } from react-scroll, but the react-scroll package is not installed in your project.
+Then you run this command => yarn add react-scroll
 
 
-Module not found: Error: Can't resolve 'framer-motion'. Then you run this command 
-yarn add framer-motion
+Module not found: Error: Can't resolve 'framer-motion'. 
+Then you run this command => yarn add framer-motion
 
 
-Module not found: Error: Can't resolve 'number-counter'. Then you run this command 
-npm install react-countup
+Module not found: Error: Can't resolve 'number-counter'.
+Then you run this command => npm install react-countup
 
 
